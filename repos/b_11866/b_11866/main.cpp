@@ -1,26 +1,19 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include <cstdio>
+#include <iostream>
+#include <list>
 using namespace std;
 
-int queue[1000];
-int selected[1000];
-int rp, wp = 1;
-int num;
-
+list <int> arr;
 
 int main()
 {
+	arr.push_back(1);
+	arr.push_back(2);
+	arr.push_back(3);
+	arr.push_back(4);
+	arr.push_back(5);
+	arr.push_back(6);
+	arr.push_back(7);
 
-	scanf("%d", &num);
-
-	for (int i = 1; i <= num; i++)
-	{
-		queue[wp++] = i;
-	}
-
-	while (wp > rp)
-	{
-
-	}
 
 }

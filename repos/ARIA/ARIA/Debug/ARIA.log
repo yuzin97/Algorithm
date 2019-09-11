@@ -1,4 +1,0 @@
-﻿  Main.c
-C:\Users\LG\source\repos\ARIA\ARIA\Main.c(294): warning C4013: '_lrotr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\LG\source\repos\ARIA\ARIA\Main.c(294): warning C4013: '_lrotl'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  ARIA.vcxproj -> C:\Users\LG\source\repos\ARIA\Debug\ARIA.exe
